@@ -6,10 +6,10 @@ let response = await fetch(url  , {
   headers: {
     'Content-Type': 'application/json;charset=utf-8'
   }
-//, body: ''
+
 } );
 
-let commits = await response. json(); // читаем ответ в формате JSON
+let commits = await response.json(); // читаем ответ в формате JSON
 
 console.log(commits );
 })()
