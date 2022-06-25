@@ -8,5 +8,5 @@ function isStrictMode(y){
     
     return this;
 }
-let rr=44
-console.log('trtrtrrt ${rr}');
+const rr=44555555555
+console.log(`trtrtrrt ${rr}`);
