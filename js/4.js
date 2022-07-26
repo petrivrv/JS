@@ -2,7 +2,7 @@
 
 "use strict";
 
-//returns false, since 'this' refers to global object and '!this' becomes false
+//returns false, tttsince 'this' refers to global object and '!this' becomes false
 
 function isStrictMode(y){   
     
