@@ -1,6 +1,6 @@
 
 
-"use strict";
+"use stric";
 
 //returns false, since 'this' refers to global object and '!this' becomes false
 
